@@ -1,0 +1,29 @@
+{
+    "user": {
+        "display_name": "Asep Guru",
+        "email": "artrialazz@gmail.com"
+    },
+    "metadata": {
+        "type": "RPP",
+        "createdAt": "2023-01-01T00:00:00.123Z"
+    },
+    "core": {
+        "school": "SMP Mekar Arum",
+        "principal_name": "Verttra S. Kom",
+        "teacher_name": "ChatGPT S. Pd",
+        "subject": "Matematika",
+        "class": "IX",
+        "semester": 1,
+        "topic": "Bilangan Berpangkat, Bentuk Akar",
+        "learning_model": "PBL",
+        "student_limit": 3,
+        "output_language": "Indonesian"
+    },
+    "core_competencies": "k1, k2, k3, k4",
+    "basic_competencies": "",
+    "time_allocation": "40 Menit",
+    "max_meeting": "4",
+    "learning_media": "",
+    "tools_and_materials": "",
+    "special_instruction": ""
+}
