@@ -1,3 +1,5 @@
+> CATATAN: Kredential, dan Webhooknya sudah ditutup jadi gak usah ngadi ngadi mau nyerang. Aku tetap simpan karena cool aja dan supaya penuh repositorinya, karena kebanyakan projekku proprietary
+
 # N8N Webhook Test Documentation
 
 Dokumentasi lengkap untuk semua webhook endpoint yang tersedia di n8n.
